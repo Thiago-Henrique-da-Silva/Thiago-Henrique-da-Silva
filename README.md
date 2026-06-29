@@ -2,9 +2,11 @@
 
 **`Desenvolvedor Java Backend em formação`**
 
-Sou estudante de desenvolvimento Java, com foco em Back-End, e atualmente estou em busca da minha primeira oportunidade de estágio na área. Tenho estudado diariamente Java, Programação Orientada a Objetos (POO), estruturas de dados, banco de dados SQL e Spring Boot, sempre colocando em prática os conhecimentos através de projetos pessoais.
+Desenvolvedor Java com foco em Back-End, construindo experiência sólida através de projetos práticos e estudo diário. Trabalho com Spring Boot, Programação Orientada a Objetos, estruturas de dados e banco de dados SQL, sempre buscando aplicar boas práticas e escrever código limpo e eficiente.
 
-Sou apaixonado por tecnologia e estou constantemente buscando aprender novas ferramentas e boas práticas de desenvolvimento. Meu objetivo é evoluir como desenvolvedor, contribuir para projetos desafiadores e construir soluções eficientes e de qualidade.
+Sou apaixonado por tecnologia e pelo processo de transformar problemas complexos em soluções bem estruturadas. Acredito que consistência e prática constante são o caminho para evoluir como desenvolvedor — por isso cada projeto pessoal é uma oportunidade de ir além do básico.
+
+Atualmente em busca da primeira oportunidade profissional para contribuir com times e projetos desafiadores, e continuar crescendo na área.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devthiago-henrique)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagohsilva.dev@gmail.com)
